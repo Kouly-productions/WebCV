@@ -1,0 +1,9 @@
+#roundedImage {
+  border-radius: 50% !important;
+  padding: 10px;
+  width: 240px;
+}
+
+html body {
+  background-color: rgb(224, 224, 224); /* Skal jeg bruge hvis eller grå*/
+}

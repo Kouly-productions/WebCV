@@ -1,0 +1,13 @@
+#rounding {
+  border-radius: 30% !important;
+  padding: 10px;
+  width: 240px;
+}
+
+#back {
+  border-radius: 30% !important;
+}
+
+html body {
+  background-color: rgb(224, 224, 224);
+}
